@@ -2,6 +2,6 @@
 
 module Odin
   module SubStrings
-    VERSION = "0.1.0"
+    VERSION = '0.1.0'
   end
 end
