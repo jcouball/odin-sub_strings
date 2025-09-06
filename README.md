@@ -3,6 +3,12 @@
 Implement `Odin::SubStrings.substrings` which determines the number of times a set or
 words occurs in a given string.
 
+[Odin Stock Picker Project](https://www.theodinproject.com/lessons/ruby-sub-strings)
+
+[Solution Code](lib/odin/sub_strings.rb)
+
+[RSpec Tests](spec/odin/sub_strings_spec.rb)
+
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
